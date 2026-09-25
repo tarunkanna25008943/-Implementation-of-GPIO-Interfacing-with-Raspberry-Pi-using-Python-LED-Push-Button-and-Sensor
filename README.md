@@ -159,9 +159,13 @@ except KeyboardInterrupt:
     led.value(0)
     print("Program stopped")
 ```
+
+
 # Observation
 
 <img width="432" height="349" alt="image" src="https://github.com/user-attachments/assets/16735cc3-3cfa-462f-bcdc-30e88394522c" />
+
+
 
 # Result
 
