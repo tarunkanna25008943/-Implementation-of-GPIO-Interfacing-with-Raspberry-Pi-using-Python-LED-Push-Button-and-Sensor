@@ -170,6 +170,13 @@ except KeyboardInterrupt:
 
 
 
+
+
+
+
+
+
+
 # Result
 
 The **GPIO interfacing of an LED, push button, and digital sensor with the Raspberry Pi Pico was successfully implemented using MicroPython in the Wokwi simulation environment**. The experiment demonstrated the configuration of GPIO pins as digital inputs and outputs, reading input signals from the push button and sensor, and controlling the LED based on the input conditions.
